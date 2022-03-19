@@ -1,3 +1,6 @@
 [submodule "server-status-api"]
 	path = server-status-api
 	url = git@github.com:heviane/server-status-api.git
+[submodule "user-authentication-api"]
+	path = user-authentication-api
+	url = git@github.com:heviane/user-authentication-api.git
